@@ -1,3 +1,3 @@
 ### NFL API Endpoints
 
-[Game Summaries](documentation/nfl_summary.ipynb)
+[Game Summaries](nfl_summary.ipynb)
