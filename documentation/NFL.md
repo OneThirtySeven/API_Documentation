@@ -6,6 +6,6 @@
 
 [Game Summaries](nfl_summary.ipynb)
 
-[Player Stats](nfl_play_stats.ipynb)
+[Player Stats](nfl_player_stats.ipynb)
 
 [Play-by-play](nfl_play_by_play.ipynb)
